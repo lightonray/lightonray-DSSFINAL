@@ -1,0 +1,13 @@
+C:\Users\Administrator\Desktop\Library-Management-System-master\LibraryService\bin\Debug\netcoreapp3.1\LibraryService.deps.json
+C:\Users\Administrator\Desktop\Library-Management-System-master\LibraryService\bin\Debug\netcoreapp3.1\LibraryService.dll
+C:\Users\Administrator\Desktop\Library-Management-System-master\LibraryService\bin\Debug\netcoreapp3.1\LibraryService.pdb
+C:\Users\Administrator\Desktop\Library-Management-System-master\LibraryService\bin\Debug\netcoreapp3.1\LibraryData.dll
+C:\Users\Administrator\Desktop\Library-Management-System-master\LibraryService\bin\Debug\netcoreapp3.1\LibraryData.pdb
+C:\Users\Administrator\Desktop\Library-Management-System-master\LibraryService\obj\Debug\netcoreapp3.1\LibraryService.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Library-Management-System-master\LibraryService\obj\Debug\netcoreapp3.1\LibraryService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Library-Management-System-master\LibraryService\obj\Debug\netcoreapp3.1\LibraryService.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Library-Management-System-master\LibraryService\obj\Debug\netcoreapp3.1\LibraryService.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Library-Management-System-master\LibraryService\obj\Debug\netcoreapp3.1\LibraryService.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Library-Management-System-master\LibraryService\obj\Debug\netcoreapp3.1\LibraryService.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Library-Management-System-master\LibraryService\obj\Debug\netcoreapp3.1\LibraryService.dll
+C:\Users\Administrator\Desktop\Library-Management-System-master\LibraryService\obj\Debug\netcoreapp3.1\LibraryService.pdb
