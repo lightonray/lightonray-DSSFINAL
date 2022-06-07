@@ -2,19 +2,17 @@
 
 WEBPAGE-credentials
 
-ADMIN CREDENTIALS
+Admin
+email: admin@oetl.pl
+password: Demo123$
+library card Id: 1048
 
-admin@gmail.com
-Demo123$
+Employee
+email: employee@oetl.pl
+password: Demo123$
+library card Id: 1049
 
-
-EMPLYOEE CREDENTIALS
-
-emplyoee@gmail.com
-Demo123$
-
-
-test CREDENTIALS
-
-test@gmail.com
-Demo123$
+Patron
+email: patron@oetl.pl
+password: Demo123$
+library card Id: 1050
